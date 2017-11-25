@@ -139,7 +139,7 @@ int main()
 	cout << "Inserisci il tuo nome utente : ";
 	getline(cin, nome_utente);
 	cout << "Il punteggio di partenza di " << nome_utente << " e' di 100 monete." << endl;
-	//gioco di probabilità
+	//gioco di probabilitÃ 
 	while (scelta != 0) {
 		cout << " -------------------------------------------------------------------- " << endl;
 		cout << "Quale dei seguenti giochi vuoi fare?" << endl;
